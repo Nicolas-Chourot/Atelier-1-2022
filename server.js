@@ -1,4 +1,4 @@
-// Mon premier server Http
+// Mon premier server Http: auteur Nicolas Chourot
 const http = require('http');
 const queryString = require('query-string');
 const server = http.createServer((req, res) => {
